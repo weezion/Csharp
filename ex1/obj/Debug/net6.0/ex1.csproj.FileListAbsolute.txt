@@ -1,0 +1,15 @@
+/Users/tl/Desktop/Csharp/ex1/bin/Debug/net6.0/ex1
+/Users/tl/Desktop/Csharp/ex1/bin/Debug/net6.0/ex1.deps.json
+/Users/tl/Desktop/Csharp/ex1/bin/Debug/net6.0/ex1.runtimeconfig.json
+/Users/tl/Desktop/Csharp/ex1/bin/Debug/net6.0/ex1.dll
+/Users/tl/Desktop/Csharp/ex1/bin/Debug/net6.0/ex1.pdb
+/Users/tl/Desktop/Csharp/ex1/obj/Debug/net6.0/ex1.csproj.AssemblyReference.cache
+/Users/tl/Desktop/Csharp/ex1/obj/Debug/net6.0/ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tl/Desktop/Csharp/ex1/obj/Debug/net6.0/ex1.AssemblyInfoInputs.cache
+/Users/tl/Desktop/Csharp/ex1/obj/Debug/net6.0/ex1.AssemblyInfo.cs
+/Users/tl/Desktop/Csharp/ex1/obj/Debug/net6.0/ex1.csproj.CoreCompileInputs.cache
+/Users/tl/Desktop/Csharp/ex1/obj/Debug/net6.0/ex1.dll
+/Users/tl/Desktop/Csharp/ex1/obj/Debug/net6.0/refint/ex1.dll
+/Users/tl/Desktop/Csharp/ex1/obj/Debug/net6.0/ex1.pdb
+/Users/tl/Desktop/Csharp/ex1/obj/Debug/net6.0/ex1.genruntimeconfig.cache
+/Users/tl/Desktop/Csharp/ex1/obj/Debug/net6.0/ref/ex1.dll
